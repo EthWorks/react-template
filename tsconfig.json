@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "baseUrl": ".",
+    "jsx": "react",
+    "lib": [
+      "es2015",
+      "dom"
+    ],
+    "module": "commonjs",
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "target": "es5"
+  }
+}
