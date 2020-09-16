@@ -6,10 +6,17 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "@types/use-subscription": "^1.0.0",
+    "big.js": "^5.2.2",
+    "ethers": "^5.0.13",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.21",
-    "react-scripts": "3.4.3"
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.3",
+    "reactive-properties": "^0.1.12",
+    "use-subscription": "^1.4.1"
   },
   "scripts": {
     "start": "webpack-dev-server --mode development --progress --hot"
@@ -38,8 +45,11 @@
     "@babel/preset-react": "^7.10.4",
     "@babel/preset-typescript": "^7.10.4",
     "@hot-loader/react-dom": "^16.13.0",
+    "@types/big.js": "^4.0.5",
     "@types/react": "^16.9.49",
     "@types/react-dom": "^16.9.8",
+    "@types/react-router": "^5.1.8",
+    "@types/react-router-dom": "^5.1.5",
     "babel-loader": "^8.1.0",
     "css-loader": "^4.3.0",
     "eslint": "^6.8.0",
